@@ -65,7 +65,7 @@ d = 'number';
 console.log(typeof d);
 let isAdmin = false; // можно сразу задать false выдаст  boolean
 console.log(typeof isAdmin); 
-let isAdmin = a > 10; // можно сравнить и снова выдаст boolean
+let isAdmin = a > 10; // можно сравнить и снова выдаст
 console.log(typeof isAdmin);
 
 let c;
